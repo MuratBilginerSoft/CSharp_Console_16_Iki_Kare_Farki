@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Iki Kare Farki\Kod S Iki Kare Farki\bin\Debug\Kod S Iki Kare Farki.exe
+C:\Users\mrt_b\Desktop\Kod S Iki Kare Farki\Kod S Iki Kare Farki\bin\Debug\Kod S Iki Kare Farki.pdb
+C:\Users\mrt_b\Desktop\Kod S Iki Kare Farki\Kod S Iki Kare Farki\obj\x86\Debug\Kod S Iki Kare Farki.exe
+C:\Users\mrt_b\Desktop\Kod S Iki Kare Farki\Kod S Iki Kare Farki\obj\x86\Debug\Kod S Iki Kare Farki.pdb
